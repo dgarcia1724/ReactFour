@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactFour/static/css/main.073c9b0a.css",
+    "main.js": "/ReactFour/static/js/main.90d404e3.js",
+    "static/js/787.4ba09ced.chunk.js": "/ReactFour/static/js/787.4ba09ced.chunk.js",
+    "static/media/logo.svg": "/ReactFour/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactFour/index.html",
+    "main.073c9b0a.css.map": "/ReactFour/static/css/main.073c9b0a.css.map",
+    "main.90d404e3.js.map": "/ReactFour/static/js/main.90d404e3.js.map",
+    "787.4ba09ced.chunk.js.map": "/ReactFour/static/js/787.4ba09ced.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.90d404e3.js"
+  ]
+}
